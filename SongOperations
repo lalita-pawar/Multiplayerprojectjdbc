@@ -1,4 +1,4 @@
-package com.cse.multiplayercasestudy.operations;
+package com.cse.multiplayercasestudyjdbc.operations;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
