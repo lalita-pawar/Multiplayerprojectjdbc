@@ -1,4 +1,4 @@
-package com.cse.multiplayercasestudy.data;
+package com.cse.multiplayercasestudyjdbc.data;
 
 public class Song {
 
