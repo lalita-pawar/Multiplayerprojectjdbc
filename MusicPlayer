@@ -1,8 +1,8 @@
-package com.cse.multiplayercasestudy.main;
+package com.cse.multiplayercasestudyjdbc.main;
 
 import java.util.Scanner;
 
-import com.cse.multiplayercasestudy.operations.SongOperations;
+import com.cse.multiplayercasestudyjdbc.operations.SongOperations;
 
 public class MusicPlayer {
   
