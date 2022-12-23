@@ -106,6 +106,7 @@ public class SongOperations {
   }
 
   public void removeSongs() {
+   System.out.println("Remove Methods successfully");
     
     
   }
